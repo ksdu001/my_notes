@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "20250712_add"
             }
+          },
+          {
+            "id": "eff406499b8b5848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_config.yml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_config.yml"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6755a57164058975",
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20250712_add.md",
+                "file": "_config.yml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20250712_add"
+              "title": "Backlinks for _config.yml"
             }
           },
           {
@@ -133,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20250712_add.md",
+                "file": "_config.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20250712_add"
+              "title": "Outgoing links from _config.yml"
             }
           },
           {
@@ -162,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20250712_add.md",
+                "file": "_config.yml.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250712_add"
+              "title": "Outline of _config.yml"
             }
           }
         ]
@@ -188,11 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9d701b8aba5981f",
+  "active": "eff406499b8b5848",
   "lastOpenFiles": [
+    "20250712_add.md",
+    "_config.yml.md",
     "README.md",
     "Welcome.md",
-    "20250712_add.md",
     "Untitled",
     "20250712.md",
     "new_folder"
